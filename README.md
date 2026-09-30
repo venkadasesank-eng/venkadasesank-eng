@@ -61,7 +61,7 @@ A cybersecurity tool focused on assessment, vulnerability checking, data recover
 <br/>
 
 <a href="https://github.com/venkadasesank-eng?tab=repositories">
-<img src="https://img.shields.io/badge/02-SPECTRA-0D1117?style=for-the-badge&logo=search&logoColor=00FF99" alt="SPECTRA"/>
+<img src="https://img.shields.io/badge/01-SPECTRA-0D1117?style=for-the-badge&logo=search&logoColor=00FF99" alt="SPECTRA"/>
 </a>
 
 **Steganographic Payload Extraction, Concealment, Tracking & Research Analyzer**
@@ -76,7 +76,7 @@ A cybersecurity tool concept focused on programmable security research workflows
 <br/>
 
 <a href="https://github.com/venkadasesank-eng?tab=repositories">
-<img src="https://img.shields.io/badge/04-LICO-0D1117?style=for-the-badge&logo=terminal&logoColor=00FF99" alt="LICO"/>
+<img src="https://img.shields.io/badge/02-LICO-0D1117?style=for-the-badge&logo=terminal&logoColor=00FF99" alt="LICO"/>
 </a>
 
 **AI-Powered Coding Assistant**
