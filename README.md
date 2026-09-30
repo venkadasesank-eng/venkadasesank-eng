@@ -54,10 +54,6 @@ I enjoy building practical tools, exploring programming concepts, experimenting 
 
 <div align="center">
 
-<a href="https://github.com/venkadasesank-eng?tab=repositories">
-<img src="https://img.shields.io/badge/01-CYVRA-0D1117?style=for-the-badge&logo=shield&logoColor=00FF99" alt="CYVRA"/>
-</a>
-
 **Cybersecurity Vulnerability, Recovery & Assessment**
 
 A cybersecurity tool focused on assessment, vulnerability checking, data recovery, and forensic analysis.
@@ -74,11 +70,6 @@ A steganography research tool for exploring hidden-data concealment and extracti
 
 <br/>
 
-<a href="https://github.com/venkadasesank-eng?tab=repositories">
-<img src="https://img.shields.io/badge/03-SHIFTER-0D1117?style=for-the-badge&logo=linux&logoColor=00FF99" alt="SHIFTER"/>
-</a>
-
-**Programmable Cybersecurity Research Tool**
 
 A cybersecurity tool concept focused on programmable security research workflows.
 
