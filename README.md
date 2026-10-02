@@ -11,7 +11,7 @@
 <img src="https://img.shields.io/badge/GitHub-venkadasesank--eng-0D1117?style=for-the-badge&logo=github&logoColor=00FF99" alt="GitHub profile"/>
 </a>
 <img src="https://img.shields.io/badge/Focus-Cybersecurity-0D1117?style=for-the-badge&logo=kalilinux&logoColor=00FF99" alt="Cybersecurity"/>
-<img src="https://img.shields.io/badge/Style-Terminal-0D1117?style=for-the-badge&logo=windowsterminal&logoColor=00FF99" alt="Terminal development"/>
+
 
 </div>
 
